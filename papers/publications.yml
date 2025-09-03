@@ -4,6 +4,12 @@
   date: 2023-01
   author-position: 1/6
   path: https://doi.org/10.1021/acs.jctc.2c00910
+- title: Simulating the Antiferromagnetic Heisenberg Model on a Spin-Frustrated Kagome
+    Lattice with the Contextual Subspace Variational Quantum Eigensolver
+  journal-title: '*arXiv*'
+  date: 2025-06
+  author-position: 1/5
+  path: https://arxiv.org/abs/2506.12391
 - title: Unitary partitioning and the contextual subspace variational quantum eigensolver
   journal-title: '*Physical Review Research*'
   date: 2023-02
@@ -18,7 +24,7 @@
 - title: Contextual subspace variational quantum eigensolver calculation of the dissociation
     curve of molecular nitrogen on a superconducting quantum computer
   journal-title: '*npj Quantum Information*'
-  date: 2025-10
+  date: 2025-02
   author-position: 1/5
   path: https://doi.org/https://doi.org/10.1038/s41534-024-00952-4
 - title: Accurately Simulating the Time Evolution of an Ising Model with Echo Verified
