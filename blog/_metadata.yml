@@ -1,0 +1,21 @@
+author:
+  - id: tim
+    number: 1
+    name:
+      given: Tim
+      family: Weaving
+      literal: Tim Weaving
+    orcid: 0000-0003-3362-7275
+    email: timothy.weaving.20@ucl.ac.uk
+format:
+  html:
+    df-print: paged
+    toc: true
+    lang: en-GB
+    code-overflow: wrap
+    mermaid:
+      theme: neutral
+citation:
+  type: article
+reference-location: margin
+citation-location: margin

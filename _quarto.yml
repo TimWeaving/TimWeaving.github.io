@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  pre-render: prepare.py
+
+website:
+  title: "Home"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Tim Weaving
+      - href: papers/publications.qmd
+        text: papers
+      - href: blog
+        text: blog
+  
+  page-footer:
+    left: "(c) Tim Weaving, 2025"
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true

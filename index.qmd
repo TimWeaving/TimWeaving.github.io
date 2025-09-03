@@ -1,0 +1,29 @@
+---
+title: "Tim Weaving"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/tim-weaving-61b47912a/
+        - icon: github
+          text: Github
+          url: https://github.com/TimWeaving/
+        - text: "{{< ai orcid >}} ORCID 0000-0003-3362-7275"
+          url: https://orcid.org/0000-0003-3362-7275
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?user=sz4S2-gAAAAJ&hl=en&oi=ao
+        - text: "✉  Email"
+          url: mailto:timothy.weaving.20@ucl.ac.uk
+image: img/tim.jpg
+comments: false
+---
+
+## Bio
+Hi, I'm Tim!
+
+## Projects
+Along with my friend [Alexis Ralli](https://scholar.google.com/citations?hl=en&user=fe6ZetoAAAAJ), we have developed an open-source python package called [`Symmer`](https://github.com/UCL-CCS/symmer) that allows people to study quantum problems using subspace methods. We welcome users to try it out!  This project has been supported by a grant from the [Unitary Fund](https://unitary.fund/)
+
+## Background
+I completed a quantum chemistry PhD in the [Centre for Computational Science group (CCS)](https://ccs.chem.ucl.ac.uk/) group at [University College London (UCL)](https://www.ucl.ac.uk/).

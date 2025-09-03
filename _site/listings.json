@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/first-post/first-post_files/first-post.html"
+    ]
+  },
+  {
+    "listing": "/papers/papers.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/first-post/first-post_files/first-post.html"
+    ]
+  }
+]

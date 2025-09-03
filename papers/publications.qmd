@@ -1,0 +1,28 @@
+---
+title: 'Publications'
+author:
+  - name: Tim Weaving
+    orcid: 0000-0003-3362-7275
+    email: timothy.weaving.20@ucl.ac.uk
+    affiliation:
+      - name: University College London
+        city: London
+        country: United Kingdom
+        url: "https://www.ucl.ac.uk"
+title-block-banner: true
+date-format: 'MMMM,<br>YYYY'
+listing:
+  contents:
+    - publications.yml
+  page-size: 10
+  sort: 'date desc'
+  type: table
+  categories: false
+  sort-ui: [date, title, journal-title, author-position]
+  filter-ui: [date, title, journal-title]
+  fields: [date, title, journal-title, author-position]
+  field-display-names:
+    date: Issued
+    journal-title: Journal
+    author-position: AuthorPos
+---

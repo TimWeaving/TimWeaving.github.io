@@ -1,0 +1,5 @@
+/.quarto/
+
+*py_scripts
+
+**/*.quarto_ipynb

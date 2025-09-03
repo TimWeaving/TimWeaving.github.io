@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html",
+    "href": "blog/first-post/first-post_files/first-post.html",
+    "title": "Quarto Test",
+    "section": "",
+    "text": "To get logos we need to install academicons:\nquarto install extension schochastics/academicons\nThis allows use of things like the Google Scholar icon. See link for example icons.\nThe posts/_metadata.yml file gives the shared options for posts see"
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#logos",
+    "href": "blog/first-post/first-post_files/first-post.html#logos",
+    "title": "Quarto Test",
+    "section": "",
+    "text": "To get logos we need to install academicons:\nquarto install extension schochastics/academicons\nThis allows use of things like the Google Scholar icon. See link for example icons.\nThe posts/_metadata.yml file gives the shared options for posts see"
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#selecting-correct-conda-envirnoment",
+    "href": "blog/first-post/first-post_files/first-post.html#selecting-correct-conda-envirnoment",
+    "title": "Quarto Test",
+    "section": "Selecting correct conda envirnoment",
+    "text": "Selecting correct conda envirnoment\nFor VS Code, sometimes the wrong conda envirnoment can be selected. The following needs to be done:\n\nOpen VS Code and click on the Command Palette1\nType and select Python: Select Interpreter\n\n1 Ctrl + Shift + P or Cmd + Shift + P"
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#live-python-code",
+    "href": "blog/first-post/first-post_files/first-post.html#live-python-code",
+    "title": "Quarto Test",
+    "section": "Live Python code",
+    "text": "Live Python code\nquarto-pyodide allows for pyodide-enabled code within a Quarto HTML document.\nTo install:\nquarto add coatless-quarto/pyodide\nThe usage is then simply:\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nprint('hello')\n\nhello"
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#show-a-molecule",
+    "href": "blog/first-post/first-post_files/first-post.html#show-a-molecule",
+    "title": "Quarto Test",
+    "section": "Show a molecule",
+    "text": "Show a molecule\nPlot HTML of a molecular system:\n\n\nPlot HTML of a molecular system with a border and different width & height:"
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#shiny",
+    "href": "blog/first-post/first-post_files/first-post.html#shiny",
+    "title": "Quarto Test",
+    "section": "Shiny",
+    "text": "Shiny\nShiny is a Python library for building interactive web apps. See the quarto dashboards-dashboard overview. Pay close attention to the context: setup method, as it will affect the efficiency of the website."
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#giscus",
+    "href": "blog/first-post/first-post_files/first-post.html#giscus",
+    "title": "Quarto Test",
+    "section": "Giscus",
+    "text": "Giscus\nGiscus allows for comments on blog post by leveraging GitHub discussions. This allows for vistors who have GitHub to leave comments on blog posts."
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#scripting",
+    "href": "blog/first-post/first-post_files/first-post.html#scripting",
+    "title": "Quarto Test",
+    "section": "Scripting",
+    "text": "Scripting\nIn the _quarto.yml file in the root of a project the pre-render term can be set such that a python file (or other) is run before building the website. I use this functionality to run prepare.py, which extracts all my publications listed in papers/publications.bib and outputs the corresponding papers/publications.yml and papers/publications.qmd."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tim Weaving",
+    "section": "",
+    "text": "Hi, I’m Tim!"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Tim Weaving",
+    "section": "",
+    "text": "Hi, I’m Tim!"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Tim Weaving",
+    "section": "Projects",
+    "text": "Projects\nAlong with my friend Alexis Ralli, we have developed an open-source python package called Symmer that allows people to study quantum problems using subspace methods. We welcome users to try it out! This project has been supported by a grant from the Unitary Fund"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Tim Weaving",
+    "section": "Background",
+    "text": "Background\nI completed a quantum chemistry PhD in the Centre for Computational Science group (CCS) group at University College London (UCL)."
+  },
+  {
+    "objectID": "papers/publications.html",
+    "href": "papers/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Issued - Oldest\n      \n      \n        Issued - Newest\n      \n      \n        Title\n      \n      \n        Journal\n      \n      \n        AuthorPos\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nIssued\n\n\n\nTitle\n\n\n\nJournal\n\n\n\nAuthorPos\n\n\n\n\n\n\n\n\nOctober,2025\n\n\nContextual subspace variational quantum eigensolver calculation of the dissociation curve of molecular nitrogen on a superconducting quantum computer\n\n\nnpj Quantum Information\n\n\n1/5\n\n\n\n\n\n\nSeptember,2025\n\n\nEvidence of Compact Wavefunctions from Quantum-Selected Configuration Interaction\n\n\narXiv\n\n\nNA\n\n\n\n\n\n\nAugust,2025\n\n\nNoncontextual Pauli Hamiltonians\n\n\nJournal of Physics A: Mathematical and Theoretical\n\n\n2/3\n\n\n\n\n\n\nJune,2025\n\n\nBridging Quantum Chemistry and MaxCut: Classical Performance Guarantees and Quantum Algorithms for the Hartree-Fock Method\n\n\narXiv\n\n\n2/4\n\n\n\n\n\n\nMay,2025\n\n\nAccurately Simulating the Time Evolution of an Ising Model with Echo Verified Clifford Data Regression on a Superconducting Quantum Computer\n\n\nQuantum\n\n\n1/5\n\n\n\n\n\n\nMay,2025\n\n\nExtending Quantum Computing through Subspace, Embedding and Classical Molecular Dynamics Techniques\n\n\narXiv\n\n\n3/11\n\n\n\n\n\n\nOctober,2023\n\n\nBenchmarking noisy intermediate scale quantum error mitigation strategies for ground state preparation of the HCl molecule\n\n\nPhysical Review Research\n\n\n1/6\n\n\n\n\n\n\nFebruary,2023\n\n\nUnitary partitioning and the contextual subspace variational quantum eigensolver\n\n\nPhysical Review Research\n\n\n2/6\n\n\n\n\n\n\nJanuary,2023\n\n\nA Stabilizer Framework for the Contextual Subspace Variational Quantum Eigensolver and the Noncontextual Projection Ansatz\n\n\nJournal of Chemical Theory and Computation\n\n\n1/6\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Quarto Test\n\n\n\nQuarto\n\n\n\nThis post is has some quarto notes for myself and others wanting to build a similar website!\n\n\n\n\n\n2 Sept 2025\n\n\nTim Weaving\n\n\n\n\n\nNo matching items\nCitationBibTeX citation:@misc{weaving,\n  author = {{Tim Weaving}},\n  title = {Blog},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nTim Weaving. n.d. “Blog.”"
+  }
+]

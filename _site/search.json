@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alexis Ralli",
+    "section": "",
+    "text": "Hi, I’m Alexis — cofounder of an early-stage quantum chemistry startup. I’m passionate about using both conventional and quantum computers to simulate molecular systems, with the goal of unlocking new drugs and materials.\nOutside of work, I enjoy cycling, watching films, and contributing to open-source projects.\nCurrently my blog focuses on chemistry and quantum science — from educational content to industry insights — though you’ll also find the occasional off-topic post sprinkled in."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Alexis Ralli",
+    "section": "",
+    "text": "Hi, I’m Alexis Ralli a postdoctoral fellow at Tufts University in the Quantum Information Quantum Computing (QIQC) group.\nI completed a quantum chemistry PhD in the Centre for Computational Science group (CCS) group at University College London (UCL).\nCurrently, my work focuses on applications of quantum computing to chemistry. In particular I study different subspace methods and study where quantum mechanics occurs in these methods. Specifically, I am interested in quantum contextuality.\nI earned an MChem in chemistry from the University of Manchester, followed by an MRes in quantum technology from UCL."
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "Alexis Ralli",
+    "section": "",
+    "text": "Hi, I’m Alexis Ralli a postdoctoral fellow at Tufts University in the Quantum Information Quantum Computing (QIQC) group.\nI completed a quantum chemistry PhD in the Centre for Computational Science group (CCS) group at University College London (UCL).\nCurrently, my work focuses on applications of quantum computing to chemistry. In particular I study different subspace methods and study where quantum mechanics occurs in these methods. Specifically, I am interested in quantum contextuality.\nI earned an MChem in chemistry from the University of Manchester, followed by an MRes in quantum technology from UCL."
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "Alexis Ralli",
+    "section": "Projects",
+    "text": "Projects\nAlong with my colleague Tim Weaving, we are building an open-source python package called Symmer that allows people to study quantum problems using subspace methods. We welcome users to try it out! This project has been supported by a grant from the Unitary Fund"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Alexis Ralli",
+    "section": "",
+    "text": "Hi, I’m Alexis — cofounder of an early-stage quantum chemistry startup. I’m passionate about using both conventional and quantum computers to simulate molecular systems, with the goal of unlocking new drugs and materials.\nOutside of work, I enjoy cycling, watching films, and contributing to open-source projects.\nCurrently my blog focuses on chemistry and quantum science — from educational content to industry insights — though you’ll also find the occasional off-topic post sprinkled in."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Alexis Ralli",
+    "section": "Projects",
+    "text": "Projects\nAlong with my friend Tim Weaving, we have developed an open-source python package called Symmer that allows people to study quantum problems using subspace methods. We welcome users to try it out! This project has been supported by a grant from the Unitary Fund"
+  },
+  {
+    "objectID": "posts/first-post/first-post_files/first-post.html",
+    "href": "posts/first-post/first-post_files/first-post.html",
+    "title": "Quarto Test",
+    "section": "",
+    "text": "To get logos we need to install academicons:\nquarto install extension schochastics/academicons\nThis allows use of things like the Google Scholar icon. See link for example icons.\nThe posts/_metadata.yml file gives the shared options for posts see"
+  },
+  {
+    "objectID": "posts/first-post/first-post_files/first-post.html#logos",
+    "href": "posts/first-post/first-post_files/first-post.html#logos",
+    "title": "Quarto Test",
+    "section": "",
+    "text": "To get logos we need to install academicons:\nquarto install extension schochastics/academicons\nThis allows use of things like the Google Scholar icon. See link for example icons.\nThe posts/_metadata.yml file gives the shared options for posts see"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "posts",
+    "section": "",
+    "text": "Quarto Test\n\n\n\nQuarto\n\n\n\nThis post is simply to test quarto and give some useful notes to myself and other wanting to build a similar website!\n\n\n\n\n\n2 Sept 2025\n\n\nAlexis Ralli\n\n\n\n\n\nNo matching items\nCitationBibTeX citation:@misc{ralli,\n  author = {{Alexis Ralli}},\n  title = {Posts},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nAlexis Ralli. n.d. “Posts.”"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Alexis Ralli",
+    "section": "Background",
+    "text": "Background\nI completed a quantum chemistry PhD in the Centre for Computational Science group (CCS) group at University College London (UCL).\nI was then a postdoctoral fellow at Tufts University in the Quantum Information Quantum Computing (QIQC) group."
+  },
+  {
+    "objectID": "papers/papers.html",
+    "href": "papers/papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "TITLE1\n\nCITATION\n\nprint(\"Hello, World!\")\nTITLE2\n\nCITATION\n\nprint(\"Hello, World!\")"
+  },
+  {
+    "objectID": "posts/first-post/first-post_files/first-post.html#live-python-code",
+    "href": "posts/first-post/first-post_files/first-post.html#live-python-code",
+    "title": "Quarto Test",
+    "section": "Live Python code",
+    "text": "Live Python code\nquarto-pyodide allows for pyodide-enabled code within a Quarto HTML document.\nTo install:\nquarto add coatless-quarto/pyodide\nThe usage is then simply:\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "posts/first-post/first-post_files/first-post.html#show-a-molecule",
+    "href": "posts/first-post/first-post_files/first-post.html#show-a-molecule",
+    "title": "Quarto Test",
+    "section": "Show a molecule",
+    "text": "Show a molecule\nPlot HTML of a molecular system:\n\nfrom IPython.display import display, HTML\ndisplay(HTML('3Dmol_visualization.html'))\n\n\n        3Dmol.js failed to load for some reason.  Please check your browser console for error messages."
+  },
+  {
+    "objectID": "posts/first-post/first-post_files/first-post.html#selecting-correct-conda-envirnoment",
+    "href": "posts/first-post/first-post_files/first-post.html#selecting-correct-conda-envirnoment",
+    "title": "Quarto Test",
+    "section": "Selecting correct conda envirnoment",
+    "text": "Selecting correct conda envirnoment\nFor VS Code, sometimes the wrong conda envirnoment can be selected. The following needs to be done:\n\nOpen VS Code and click on the Command Palette1\nType and select Python: Select Interpreter\n\n1 Ctrl + Shift + P or Cmd + Shift + P"
+  },
+  {
+    "objectID": "posts/first-post/first-post_files/first-post.html#shiny",
+    "href": "posts/first-post/first-post_files/first-post.html#shiny",
+    "title": "Quarto Test",
+    "section": "Shiny",
+    "text": "Shiny\nShiny is a Python library for building interactive web apps. See the quarto dashboards-dashboard overview. Pay close attention to the context: setup method, as it will affect the efficiency of the website."
+  },
+  {
+    "objectID": "posts/first-post/first-post_files/first-post.html#giscus",
+    "href": "posts/first-post/first-post_files/first-post.html#giscus",
+    "title": "Quarto Test",
+    "section": "Giscus",
+    "text": "Giscus\nGiscus allows for comments on blog post by leveraging GitHub discussions. This allows for vistors who have GitHub to leave comments on blog posts."
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html",
+    "href": "blog/first-post/first-post_files/first-post.html",
+    "title": "Quarto Test",
+    "section": "",
+    "text": "To get logos we need to install academicons:\nquarto install extension schochastics/academicons\nThis allows use of things like the Google Scholar icon. See link for example icons.\nThe posts/_metadata.yml file gives the shared options for posts see"
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#logos",
+    "href": "blog/first-post/first-post_files/first-post.html#logos",
+    "title": "Quarto Test",
+    "section": "",
+    "text": "To get logos we need to install academicons:\nquarto install extension schochastics/academicons\nThis allows use of things like the Google Scholar icon. See link for example icons.\nThe posts/_metadata.yml file gives the shared options for posts see"
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#selecting-correct-conda-envirnoment",
+    "href": "blog/first-post/first-post_files/first-post.html#selecting-correct-conda-envirnoment",
+    "title": "Quarto Test",
+    "section": "Selecting correct conda envirnoment",
+    "text": "Selecting correct conda envirnoment\nFor VS Code, sometimes the wrong conda envirnoment can be selected. The following needs to be done:\n\nOpen VS Code and click on the Command Palette1\nType and select Python: Select Interpreter\n\n1 Ctrl + Shift + P or Cmd + Shift + P"
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#live-python-code",
+    "href": "blog/first-post/first-post_files/first-post.html#live-python-code",
+    "title": "Quarto Test",
+    "section": "Live Python code",
+    "text": "Live Python code\nquarto-pyodide allows for pyodide-enabled code within a Quarto HTML document.\nTo install:\nquarto add coatless-quarto/pyodide\nThe usage is then simply:\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#show-a-molecule",
+    "href": "blog/first-post/first-post_files/first-post.html#show-a-molecule",
+    "title": "Quarto Test",
+    "section": "Show a molecule",
+    "text": "Show a molecule\nPlot HTML of a molecular system:\n\nfrom IPython.display import display, HTML\ndisplay(HTML('3Dmol_visualization.html'))\n\n\n        3Dmol.js failed to load for some reason.  Please check your browser console for error messages."
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#shiny",
+    "href": "blog/first-post/first-post_files/first-post.html#shiny",
+    "title": "Quarto Test",
+    "section": "Shiny",
+    "text": "Shiny\nShiny is a Python library for building interactive web apps. See the quarto dashboards-dashboard overview. Pay close attention to the context: setup method, as it will affect the efficiency of the website."
+  },
+  {
+    "objectID": "blog/first-post/first-post_files/first-post.html#giscus",
+    "href": "blog/first-post/first-post_files/first-post.html#giscus",
+    "title": "Quarto Test",
+    "section": "Giscus",
+    "text": "Giscus\nGiscus allows for comments on blog post by leveraging GitHub discussions. This allows for vistors who have GitHub to leave comments on blog posts."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Quarto Test\n\n\n\nQuarto\n\n\n\nThis post is simply to test quarto and give some useful notes to myself and other wanting to build a similar website!\n\n\n\n\n\n2 Sept 2025\n\n\nAlexis Ralli\n\n\n\n\n\nNo matching items\nCitationBibTeX citation:@misc{ralli,\n  author = {{Alexis Ralli}},\n  title = {Blog},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nAlexis Ralli. n.d. “Blog.”"
+  }
+]

@@ -1,0 +1,51 @@
+- title: A Stabilizer Framework for the Contextual Subspace Variational Quantum Eigensolver
+    and the Noncontextual Projection Ansatz
+  journal-title: '*Journal of Chemical Theory and Computation*'
+  date: 2023-01
+  author-position: 1/6
+  path: https://doi.org/10.1021/acs.jctc.2c00910
+- title: Unitary partitioning and the contextual subspace variational quantum eigensolver
+  journal-title: '*Physical Review Research*'
+  date: 2023-02
+  author-position: 2/6
+  path: https://doi.org/10.1103/PhysRevResearch.5.013095
+- title: Benchmarking noisy intermediate scale quantum error mitigation strategies
+    for ground state preparation of the HCl molecule
+  journal-title: '*Physical Review Research*'
+  date: 2023-10
+  author-position: 1/6
+  path: https://doi.org/10.1103/PhysRevResearch.5.043054
+- title: Contextual subspace variational quantum eigensolver calculation of the dissociation
+    curve of molecular nitrogen on a superconducting quantum computer
+  journal-title: '*npj Quantum Information*'
+  date: 2025-10
+  author-position: 1/5
+  path: https://doi.org/https://doi.org/10.1038/s41534-024-00952-4
+- title: Accurately Simulating the Time Evolution of an Ising Model with Echo Verified
+    Clifford Data Regression on a Superconducting Quantum Computer
+  journal-title: '*Quantum*'
+  date: 2025-05
+  author-position: 1/5
+  path: https://doi.org/10.22331/q-2025-05-05-1732
+- title: Extending Quantum Computing through Subspace, Embedding and Classical Molecular
+    Dynamics Techniques
+  journal-title: '*arXiv*'
+  date: 2025-05
+  author-position: 3/11
+  path: https://arxiv.org/abs/2505.16796
+- title: 'Bridging Quantum Chemistry and MaxCut: Classical Performance Guarantees
+    and Quantum Algorithms for the Hartree-Fock Method'
+  journal-title: '*arXiv*'
+  date: 2025-06
+  author-position: 2/4
+  path: https://arxiv.org/abs/2506.04223
+- title: Noncontextual Pauli Hamiltonians
+  journal-title: '*Journal of Physics A: Mathematical and Theoretical*'
+  date: 2025-08
+  author-position: 2/3
+  path: https://doi.org/10.1088/1751-8121/adf677
+- title: Evidence of Compact Wavefunctions from Quantum-Selected Configuration Interaction
+  journal-title: '*arXiv*'
+  date: 2025-09
+  author-position: NA
+  path: https://arxiv.org/abs/2509.02525
