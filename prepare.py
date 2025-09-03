@@ -3,9 +3,9 @@
 
 import os
 
-if not os.getenv("QUARTO_PROJECT_RENDER_ALL"):
-  # only run when rendering project
-  exit()
+# if not os.getenv("QUARTO_PROJECT_RENDER_ALL"):
+#   # only run when rendering project
+#   exit()
 
 import bibtexparser
 import calendar
